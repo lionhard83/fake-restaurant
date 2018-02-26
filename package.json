@@ -1,6 +1,6 @@
 {
   "name": "fake-restaurant-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "\"A simple fake restaurant\"",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,14 @@
   "license": "MIT",
   "devDependencies": {
     "mocha": "^5.0.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lionhard83/fake-restaurant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lionhard83/fake-restaurant/issues"
+  },
+  "homepage": "https://github.com/lionhard83/fake-restaurant#readme"
 }
